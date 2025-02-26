@@ -58,3 +58,7 @@ Error:
 Error:
 [12:47:04 | 25-02-2025] Transfer Task failed for 0x3ab6a8C93b63cCc5654082a5530FCB1172b0a32D: Request failed with status code 400
 [12:47:07 | 25-02-2025] Bridge Task failed for 0x3ab6a8C93b63cCc5654082a5530FCB1172b0a32D: Request failed with status code 400
+[09:20:47 | 26-02-2025] Transaction Confirmed: https://reddio-devnet.l2scan.co/tx/0x0d32b5649dc41af7e2c23c348c9635880d1b994332a56d6d20f6d82e0419ae26
+Error:
+[09:23:53 | 26-02-2025] Transfer Task successful for 0x3ab6a8C93b63cCc5654082a5530FCB1172b0a32D
+[09:23:56 | 26-02-2025] Bridge Task failed for 0x3ab6a8C93b63cCc5654082a5530FCB1172b0a32D: Request failed with status code 400
