@@ -978,3 +978,7 @@ Error:
 Error:
 [09:46:17 | 13-10-2025] Transfer Task failed for 0x3ab6a8C93b63cCc5654082a5530FCB1172b0a32D: Request failed with status code 400
 [09:46:20 | 13-10-2025] Bridge Task failed for 0x3ab6a8C93b63cCc5654082a5530FCB1172b0a32D: Request failed with status code 400
+Error:
+Error:
+[09:28:19 | 14-10-2025] Transfer Task failed for 0x3ab6a8C93b63cCc5654082a5530FCB1172b0a32D: Request failed with status code 400
+[09:28:22 | 14-10-2025] Bridge Task failed for 0x3ab6a8C93b63cCc5654082a5530FCB1172b0a32D: Request failed with status code 400
